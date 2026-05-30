@@ -1,0 +1,7 @@
+route,hour,scheduled_time,actual_delay
+Route A,7 AM,07:00,2
+Route A,8 AM,08:00,0
+Route B,9 AM,09:00,8
+Route B,4 PM,16:00,14
+Route B,5 PM,17:00,11
+Route C,6 PM,18:00,0

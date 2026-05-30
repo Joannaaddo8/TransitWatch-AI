@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  background: #0b1020;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  min-height: 100vh;
+  padding: 30px;
+  background: #0b1020;
+}
+
+.app-title {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.page-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.card {
+  background: #111827;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+.action-card {
+  background: #17351d;
+  border: 2px solid #4caf50;
+}
+
+.chart-box {
+  width: 700px;
+  max-width: 100%;
+  margin-bottom: 40px;
+}
+
+.small-chart-box {
+  width: 500px;
+  max-width: 100%;
+  margin-bottom: 40px;
+}
+
+.data-table {
+  border-collapse: collapse;
+  background: #111827;
+  color: white;
+  margin: 0 auto;
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid #555;
+  padding: 12px;
+}
+
+.map-box {
+  height: 600px;
+  width: 100%;
+}

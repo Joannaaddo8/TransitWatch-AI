@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+gtfs-realtime-bindings
+protobuf
+crewai[litellm]
+litellm
+python-dotenv

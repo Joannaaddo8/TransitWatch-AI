@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  background: #1f2937;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.nav-link.active {
+  background: #4caf50;
+}
