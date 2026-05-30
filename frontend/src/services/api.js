@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://127.0.0.1:8001",
+  baseURL: "https://transitwatch-ai.onrender.com",
 });
 
 export default API;
