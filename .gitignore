@@ -6,3 +6,5 @@ node_modules/
 dist/
 build/
 backend/app/data/gtfs_static/stop_times.txt
+
+backend/app/data/gtfs_static/stop_times_full.txt
