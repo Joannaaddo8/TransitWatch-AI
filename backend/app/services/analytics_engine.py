@@ -37,7 +37,7 @@ def analyze_transit_data():
     # LOAD DATA
     # ------------------------------------------------------------
     # This pulls data from GTFS static files (or synthetic if switched)
-    scheduled_trips, actual_trips = load_transit_data(source="synthetic")
+    scheduled_trips, actual_trips = load_transit_data(source="gtfs")
 
     # ------------------------------------------------------------
     # MERGE SCHEDULED + ACTUAL DATA
